@@ -72,4 +72,5 @@ mvn archetype:generate \
    -DartifactId=nextwork-web-project \
    -DarchetypeArtifactId=maven-archetype-webapp \
    -DinteractiveMode=false
+```
 -This command creates a basic project structure for a Java web application with the specified groupId and artifactId.
